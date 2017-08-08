@@ -11,6 +11,15 @@ Router.map(function() {
   this.route('about');
   this.route('contact');
   this.route('submission');
+  this.route('entertainment');
+  this.route('beauty');
+  this.route('fashion');
+  this.route('lifestyle');
+  this.route('books');
+  this.route('flowcharts');
+  this.route('tech');
+  this.route('food');
+  this.route('wellness');
 });
 
 export default Router;
